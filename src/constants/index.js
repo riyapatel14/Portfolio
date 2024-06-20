@@ -173,12 +173,12 @@ export const socialLinks = [
   {
     name: "GitHub",
     iconUrl: github,
-    link: "https://github.com/deoregayatri",
+    link: "https://github.com/riyapatel14",
   },
   {
     name: "LinkedIn",
     iconUrl: linkedin,
-    link: "http://www.linkedin.com/in/gayatri-deore-50983b313",
+    link: "http://www.linkedin.com/in/riya-patel-7258142ab",
   },
 ];
 
@@ -189,7 +189,7 @@ export const projects = [
     name: "Hate Speech Detection using ML",
     description:
       "A machine learning project utilizing a Decision Tree Classifier to detect hate speech in text, enhancing the ability to identify and mitigate harmful content online..",
-    link: "https://github.com/deoregayatri/Hate-Speech-Detection-Using-ML",
+    link: "https://github.com/riyapatel14/Hate_Speech_Detection_Using_ML",
   },
   {
     iconUrl: threads,
@@ -197,7 +197,7 @@ export const projects = [
     name: "Fire Detection using YOLOv9",
     description:
       "This project utilizes YOLOv9, a state-of-the-art real-time object detection algorithm, to detect fires in images and video streams. The system aims to enhance early fire detection capabilities using deep learning..",
-    link: "https://github.com/deoregayatri/Fire-Detection-Using-YOLOv9",
+    link: "https://github.com/riyapatel14/Fire_Detection_Using_YOLOv9",
   },
   {
     iconUrl: car,
@@ -205,7 +205,7 @@ export const projects = [
     name: "JARVIS AI Assistant",
     description:
       "This project implements JARVIS, an AI assistant capable of executing various commands such as providing the current time and date, sending emails, searching on Wikipedia, and more. It leverages various Python libraries to create an interactive and efficient virtual assistant..",
-    link: "https://github.com/deoregayatri/Jarvis-AI-Assistant-Using-Python",
+    link: "https://github.com/riyapatel14/Jarvis-AI-Assistance-Using-Python",
   },
   {
     iconUrl: snapgram,
@@ -213,6 +213,6 @@ export const projects = [
     name: "Face Detection using YOLOv7",
     description:
       "Built a complete clone of Instagram, allowing uThis project leverages YOLOv7, a cutting-edge real-time object detection algorithm, to detect faces in images and video streams. The system is designed to enhance facial recognition and detection capabilities using deep learning techniques.ers to share photos and connect with friends in a familiar social media environment.",
-    link: "https://github.com/deoregayatri/Face-Recognition-using-YOLOv7",
+    link: "https://github.com/riyapatel14/Face_Detection_System_Using_Yolov7",
   },
 ];
